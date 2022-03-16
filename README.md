@@ -1,16 +1,15 @@
-### Hi there 👋
-
-# About me
+# About me 👋
 
 OOoo...
 
 
-## Projets
+## Projects
 
 ID | Name | Descriptions
 -----|:------|:-----
-0001 | [Raspberry Pi](https://github.com/ZengjfOS/RaspberryPi)                  | 使用树莓派分析Linux/Android系统（私有，非公开仓库）
-0003 | [batTool](https://github.com/ZengjfOS/batTool)                           | cmd命令对adb工具封装Busybox；
+0001 | [NBA Careers](https://github.com/MorganPeju/ml-nba-proj)                  | Statistical predictions on NBA rookies' career
+0002 | [Cinémathèque Québécoise](https://github.com/MorganPeju/polymtl-cinematheque-cq-web)                           | Viz project about the evolution of film genres
+Busybox；
 
 <!--
 **MorganPeju/MorganPeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
