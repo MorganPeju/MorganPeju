@@ -1,13 +1,13 @@
 # About me 👋
 
-⏳  Data Science Student - MEng at Polytechnique Montréal     <br />     
+⏳  Data Science Student - MEng at Polytechnique Montréal<br />
 🎓 Project Management - MS at IAE Paris   <br />
 🎓 Engineer - MSc at Arts et Métiers ParisTech <br />
 
 
 ## Projects
 
-ID | Name | Descriptions
+ID | Name | Description
 -----|:------|:-----
 0001 | [NBA Careers](https://github.com/MorganPeju/ml-nba-proj)                  | Statistical predictions on NBA rookies' career
 0002 | [Cinémathèque Québécoise](https://github.com/MorganPeju/polymtl-cinematheque-cq-web)                           | Viz project about the evolution of film genres
