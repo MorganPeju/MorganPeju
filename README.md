@@ -1,4 +1,4 @@
-# About me 👋
+## About me 👋
 
 ⏳  Data Science Student - MEng at Polytechnique Montréal<br />
 🎓 Project Management and Innovation - MS at IAE Paris   <br />
