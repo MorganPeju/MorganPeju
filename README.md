@@ -1,8 +1,8 @@
 # About me 👋
 
-⏳  Data Science Student - MEng at Polytechnique Montréal                         
-🎓 Project Management - MS at IAE Paris   
-🎓 Engineer - MSc at Arts et Métiers ParisTech
+⏳  Data Science Student - MEng at Polytechnique Montréal     <br />     
+🎓 Project Management - MS at IAE Paris   <br />
+🎓 Engineer - MSc at Arts et Métiers ParisTech <br />
 
 
 ## Projects
