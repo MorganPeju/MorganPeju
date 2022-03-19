@@ -14,7 +14,7 @@ ID | Category | Name | Description
 0005 |ML|[Deep Learning Classification](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression) | Python - Classification with logistic regression (SGD & Adam)
 0004 |ML|[NBA Careers](https://github.com/MorganPeju/ml-nba-proj)| R - Statistical predictions on NBA rookies' career
 0003 |Viz|[Cinémathèque Québécoise](https://github.com/MorganPeju/polymtl-cinematheque-cq-web)  | Python/Plotly - Viz project about the evolution of film genres
-0002 |Web|[Personal Portfolio](https://github.com/MorganPeju/personal-hugo-website) | Personal website powered by Netlify(host) and Hugo(framework
+0002 |Web|[Personal Portfolio](https://github.com/MorganPeju/personal-hugo-website) | Personal website powered by Netlify(host) and Hugo(framework)
 0001 |Web|[Fantasio](https://github.com/MorganPeju/fantasio) | Website presenting an academic project: Fantasio, an urban escape game with AR
 
 <!--
