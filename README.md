@@ -10,7 +10,7 @@
 
 ID | Category | Name | Description
 -----|:------|:-----|:-----
-0008 |ML|[...COMING...](https://github.com/MorganPeju/inf8225_project) | Python - Fire smoke detection thanks to YOLO model (Computer Vision)
+0008 |ML|[...COMING...](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection thanks to YOLO model (Computer Vision)
 0007 |ML|[...COMING...](https://github.com/MorganPeju/) | Python - Text translation (EN to FR) thanks to RNN/GRU or a Transformer (NLP)
 0006 |ML|[Deep Learning Classification](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression) | Python - Object classification with logistic regression (SGD & Adam)
 0005 |ML|[NBA Careers](https://github.com/MorganPeju/ml-nba-proj)| R - Statistical predictions on NBA rookies' career
