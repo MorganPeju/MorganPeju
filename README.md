@@ -8,8 +8,8 @@
 
 ## Projects
 
-ID | Category | Name | Description
------|:----|:--------|:-----
+ID | Tag | Name | Description
+-----|:---|:----------|:-----
 0008 |ML|[🔥 Fire smoke detection [WIP]](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection thanks to YOLOv5 model (Computer Vision)
 0007 |ML|[📚 Text Translator [WIP]](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Text_Translation) | Python - Text translation (EN to FR) thanks to RNN/GRU and a Transformer (NLP)
 0006 |ML|[💡 Deep Learning Classification](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression) | Python - Object classification with logistic regression (SGD & Adam)
