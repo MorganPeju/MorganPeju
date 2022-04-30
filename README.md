@@ -10,7 +10,7 @@
 
 ID | Tag | Name | Description
 ---|:---|:---|:---
-008 |ML|[🔥 Fire smoke detection [WIP]](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection thanks to YOLOv5 model (Computer Vision)
+008 |ML|[🔥 Fire smoke detection](https://github.com/MorganPeju/inf8225_project) | Python - Forest fire smoke detection thanks to YOLOv5 model (Computer Vision)
 007 |ML|[📚 Text Translator [WIP]](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Text_Translation) | Python - Text translation (EN to FR) thanks to RNN/GRU and a Transformer (NLP)
 006 |ML|[💡 Deep Learning Classification](https://github.com/MorganPeju/Probabilistic_AI/tree/main/Classification_Logistic_Regression) | Python - Object classification with logistic regression (SGD & Adam)
 005 |ML|[🏀 NBA Careers](https://github.com/MorganPeju/ml-nba-proj)| R - Statistical predictions on NBA rookies' career
