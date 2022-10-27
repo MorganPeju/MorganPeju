@@ -1,8 +1,8 @@
 ## About me 👋
 💼 Data scientist at [SIBIUS](https://www.sibius.eu/)<br />
-🎓 Data Science - MEng at Polytechnique Montréal<br />
+🎓 IT & Data Science Engineering - MEng at Polytechnique Montréal<br />
 🎓 Project Management and Innovation - MS at IAE Paris   <br />
-🎓 Mechanical Engineer - MSc at Arts et Métiers ParisTech <br />
+🎓 Mechanical Engineering - MSc at Arts et Métiers ParisTech <br />
 
 [>> Check my portfolio for more details <<](https://morganp.netlify.app/)
 
