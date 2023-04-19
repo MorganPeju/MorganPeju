@@ -1,5 +1,5 @@
 ## About me 👋
-💼 Data scientist at [SIBIUS](https://www.sibius.eu/)<br />
+💼 Data scientist and fullstack developer at [SIBIUS](https://www.sibius.eu/)<br />
 🎓 IT & Data Science Engineering - MEng at Polytechnique Montréal<br />
 🎓 Project Management and Innovation - MS at IAE Paris   <br />
 🎓 Mechanical Engineering - MSc at Arts et Métiers ParisTech <br />
