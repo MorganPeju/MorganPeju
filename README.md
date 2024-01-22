@@ -4,7 +4,7 @@
 🎓 Project Management and Innovation - MS at IAE Paris   <br />
 🎓 Mechanical Engineering - MSc at Arts et Métiers ParisTech <br />
 
-[>> Check my portfolio for more details <<](https://morganp.netlify.app/)
+[>> Check my portfolio for more details <<](https://morganpeju.netlify.app/)
 
 ## Projects
 
